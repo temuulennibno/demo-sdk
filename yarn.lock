@@ -8121,9 +8121,9 @@ react-is@^17.0.1:
   resolved "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-builder-bob@^0.20.0:
+react-native-builder-bob@^0.20.3:
   version "0.20.3"
-  resolved "https://registry.npmjs.org/react-native-builder-bob/-/react-native-builder-bob-0.20.3.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-builder-bob/-/react-native-builder-bob-0.20.3.tgz#da3d3238650d3e8bcf8e36bbca8aa852bdbebe15"
   integrity sha512-TGuCo/61V95kIXTF13NJGGzR7bZuICe+LCWaYvLm/VUuEXMKwS6wSAk02EgmGZ7kfWpCFrDXmwrFFzfLhETSxg==
   dependencies:
     "@babel/core" "^7.18.5"

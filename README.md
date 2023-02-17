@@ -11,11 +11,11 @@ npm install react-native-demo-sdk
 ## Usage
 
 ```js
-import { multiply } from 'react-native-demo-sdk';
+import { DemoComponent } from 'react-native-demo-sdk';
 
 // ...
 
-const result = await multiply(3, 7);
+<DemoComponent text="Hello my world!" />;
 ```
 
 ## Contributing
